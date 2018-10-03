@@ -1,0 +1,2 @@
+activate jmatlab
+jupyter notebook
